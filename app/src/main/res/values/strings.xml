@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="text1">الشحن</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="new_address">ادخال عنوان جديد</string>
+    <string name="select_address">اختيار من قائمه العناوين</string>
+    <string name="textview1">الدولة</string>
+    <string name="textview2">المدينة</string>
+    <string name="textview3">العنوان</string>
+</resources>
